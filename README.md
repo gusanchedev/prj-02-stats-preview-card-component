@@ -20,9 +20,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### The challenge
 
-Users should be able to:
+Users should be able to see the following screenshot.
 
-- See hover states for interactive elements
 
 ### Screenshot
 
@@ -54,12 +53,6 @@ How to apply filters to images in CSS3:
   max-width: 100%;
   filter: invert(11%) sepia(22%) saturate(918%) hue-rotate(220deg)
     brightness(70%) contrast(114%);
-}
-```
-How to change opacity in hover state:
-```css
-.proceed-payment:hover {
-  opacity: 0.5;
 }
 ```
 How to change the order of elements with Flexbox:
@@ -98,7 +91,7 @@ In the next projects I will continue using key concepts of HTML5 and CSS3. Also,
 
 ### Useful resources
 
-- [Fit images to container](https://developer.mozilla.org/es/docs/Web/CSS/object-fit) - The object-fit CSS property sets how the content of a replaced element, such as an <img> or <video>, should be resized to fit its container.
+- [Hex Color To CSS Filter Converter](https://isotropic.co/hex-color-to-css-filter/). Convert a color to a CSS filter.
 
 ## Author
 
